@@ -1,4 +1,4 @@
-## Hi there 👋
+Computer-Assisted Research Documentation Systems. This organisation is for developing tools to support complete, standards-compliant conduct and documentation of research projects.
 
 <!--
 
